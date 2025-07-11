@@ -1,0 +1,9 @@
+div {
+    height: 300px;
+}
+
+img{
+    height: 400px;
+    float: left;
+    margin-right: 100px ;
+}
